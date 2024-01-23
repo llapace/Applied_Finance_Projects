@@ -57,3 +57,9 @@ Objective: Create and deploy a basic algorithmic trading algorithm.
 Project: Develop a Monte Carlo simulation to assess the risk of an investment portfolio.
 Skills: Monte Carlo Simulation, Risk Metrics.
 Objective: Demonstrate an understanding of risk management in investment portfolios.
+
+11. Dividend Yield Prediction Model:
+
+Build a predictive model to estimate the future dividend yield of a stock.
+Use relevant features such as historical dividend payouts, financial ratios, and market conditions.
+Evaluate the model's performance and discuss its implications for investment decisions.
